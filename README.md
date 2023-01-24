@@ -30,7 +30,7 @@ In reality most of these methods and all of the fields should have been kept pri
 ### `Deck.Deck(int numOfCardsPerSuit, int numOfSuits)`
 Creates a deck with cards from Ace to numOfCardsPerSuit for the first numOfSuits in the class field suitsInOrder. 
 The cards are ordered first by suit, and then by rank. In addition to these cards, a red joker and a black joker are added to the bottom of the deck in this order.
-The constructor raises an IllegalArgumentException if the first input is not a number between 1 and 13 (both included) or the second input is not a number between 1 and the sizeof the class field suitsInOrder.
+The constructor raises an IllegalArgumentException if the first input is not a number between 1 and 13 (both included) or the second input is not a number between 1 and the size of the class field suitsInOrder.
 
 ### `Deck.Deck(Deck d)`
 Creates a deck by making a copy of the input deck.
