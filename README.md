@@ -6,7 +6,7 @@ For grading purposes skeleton versions of `Deck.java` and `SolitaireCipher.java`
 Methods I implemented contain the /**** ADD CODE HERE ****/ comment and are explained below.
 `Deck.java` and `SolitaireCipher.java` were the only files submitted for final evaluation, all other files were used for testing.
 
-## Implementation
+## Overview
 
 This project is a java implentation of the solitaire cryptographic algorithm originally designed by Bruce Schneier and used in the novel *Cryptonomicon* by Neal Stephenson.
 An explanation of the algorithm can be found [here](https://en.wikipedia.org/wiki/Solitaire_(cipher)).
